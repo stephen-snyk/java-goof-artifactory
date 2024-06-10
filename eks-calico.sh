@@ -1,1 +1,0 @@
-todolist-goof/k8s/eks-calico.sh
