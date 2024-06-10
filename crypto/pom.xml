@@ -17,11 +17,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <modules>
-        <module>todolist-core</module>
-        <module>todolist-web-common</module>
-        <module>todolist-web-struts</module>
-    </modules>
     <packaging>pom</packaging>
 
     <dependencies>
