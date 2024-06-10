@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>cryptohelper</artifactId>
-<!--    <version>0.0.1-SNAPSHOT</version> -->
+    <version>1.0</version>
     <name>Crypto Helper</name>
     <description>Testing JFrog Artifactory</description>
     <url>http://localhost:8081/artifactory/libs-release</url>
