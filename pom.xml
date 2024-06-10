@@ -23,7 +23,7 @@
         <dependency>
             <groupId>org.example</groupId>
             <artifactId>cryptohelper</artifactId>
-            <version>1.0</version>
+<!--            <version>1.0</version> -->
         </dependency>
     </dependencies>
 
