@@ -20,7 +20,6 @@
 -->
     <packaging>pom</packaging>
 
-<!--
     <dependencies>
         <dependency>
             <groupId>org.example</groupId>
@@ -28,7 +27,6 @@
             <version>1.0</version> 
         </dependency>
     </dependencies>
--->
     <licenses>
         <license>
             <name>MIT License</name>
